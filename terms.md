@@ -1,6 +1,6 @@
 Kalamatiano - Terms of Service
 
-Last Updated: [Date]
+Last Updated: 23/12/2023
 
 By using Kalamatiano ("the Bot"), you agree to the following terms and conditions:
 
